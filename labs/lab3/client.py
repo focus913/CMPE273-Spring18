@@ -28,3 +28,21 @@ def run():
 
 if __name__ == '__main__':
     run()
+
+'''
+(my-venv) YuematoMacBook-Pro:lab3 yinyue913$ python client.py Alice
+User Alice Connected to the chat server.
+[Bob]: Hello From Bob!
+[Bob]: Hello World from Bob!
+[Alice]>Hello From Alice!
+[Alice]>Hello World from Alice!
+[Alice]>
+
+
+(my-venv) YuematoMacBook-Pro:lab3 yinyue913$ python client.py Alice
+User Alice Connected to the chat server.
+[Bob]: Hello From Bob!
+[Bob]: Hello World from Bob!
+[Alice]>Hello From Alice!
+[Alice]>Hello World from Alice!
+[Alice]>
